@@ -1,0 +1,14 @@
+C:\Users\IVM505\source\repos\cSHARPlab1\cSHARPlab1\bin\Debug\netcoreapp3.1\cSHARPlab1.exe
+C:\Users\IVM505\source\repos\cSHARPlab1\cSHARPlab1\bin\Debug\netcoreapp3.1\cSHARPlab1.deps.json
+C:\Users\IVM505\source\repos\cSHARPlab1\cSHARPlab1\bin\Debug\netcoreapp3.1\cSHARPlab1.runtimeconfig.json
+C:\Users\IVM505\source\repos\cSHARPlab1\cSHARPlab1\bin\Debug\netcoreapp3.1\cSHARPlab1.runtimeconfig.dev.json
+C:\Users\IVM505\source\repos\cSHARPlab1\cSHARPlab1\bin\Debug\netcoreapp3.1\cSHARPlab1.dll
+C:\Users\IVM505\source\repos\cSHARPlab1\cSHARPlab1\bin\Debug\netcoreapp3.1\cSHARPlab1.pdb
+C:\Users\IVM505\source\repos\cSHARPlab1\cSHARPlab1\obj\Debug\netcoreapp3.1\cSHARPlab1.csproj.AssemblyReference.cache
+C:\Users\IVM505\source\repos\cSHARPlab1\cSHARPlab1\obj\Debug\netcoreapp3.1\cSHARPlab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IVM505\source\repos\cSHARPlab1\cSHARPlab1\obj\Debug\netcoreapp3.1\cSHARPlab1.AssemblyInfoInputs.cache
+C:\Users\IVM505\source\repos\cSHARPlab1\cSHARPlab1\obj\Debug\netcoreapp3.1\cSHARPlab1.AssemblyInfo.cs
+C:\Users\IVM505\source\repos\cSHARPlab1\cSHARPlab1\obj\Debug\netcoreapp3.1\cSHARPlab1.csproj.CoreCompileInputs.cache
+C:\Users\IVM505\source\repos\cSHARPlab1\cSHARPlab1\obj\Debug\netcoreapp3.1\cSHARPlab1.dll
+C:\Users\IVM505\source\repos\cSHARPlab1\cSHARPlab1\obj\Debug\netcoreapp3.1\cSHARPlab1.pdb
+C:\Users\IVM505\source\repos\cSHARPlab1\cSHARPlab1\obj\Debug\netcoreapp3.1\cSHARPlab1.genruntimeconfig.cache
