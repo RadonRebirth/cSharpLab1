@@ -27,7 +27,7 @@ namespace cSHARPlab1
                     break;
                 }
 
-                for (var j = 0; j <= n; j++)
+                for (int j = 0; j <= n; j++)
                 {
                     double arcctgx = (Math.Pow(-1, n + 1)) * (Math.Pow(x, 2 + n + 1)) / 2 * n + 1;
                     summ = summ + arcctgx;
